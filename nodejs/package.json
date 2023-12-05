@@ -1,0 +1,24 @@
+{
+  "name": "gomycode-nodejs_basics",
+  "description": "Introducing Node.js through a set of guided exercises",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelhpet/gomycode-nodejs_basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelhpet/gomycode-nodejs_basics/issues"
+  },
+  "homepage": "https://github.com/michaelhpet/gomycode-nodejs_basics#readme",
+  "dependencies": {
+    "generate-password": "^1.7.0",
+    "nodemailer": "^6.9.3",
+    "dotenv": "^16.1.3"
+  }
+}
